@@ -34,3 +34,15 @@ https://user-images.githubusercontent.com/68932309/224836665-86789c1d-be8a-4150-
 
 ## Result
 
+
+## Problems Encountered
+#### Inexperience of language and tools
+We had to learn many tools that why haven't had much experience using and it took a quite some time to learn how to navigate and implement what we wanted. 
+
+Uploading video for testing and implementation to google colab took very long.
+We had to adapt to use shorter videos with lower resolutions. 
+
+## Next Steps
+If we had more time and resources, we would like to implement our own working Farneback Optical Flow algorithm that is similar to the one the is implemented by OpenCV.
+We would also like to experiment with different frame rates using a variety of video lengths and resolution.
+
