@@ -5,7 +5,7 @@
 Increase the frame rate of a video source by a factor of ~2, i.e. interpolate a video sequence of 30 frames/sec to 59 frame/sec.
 
 ### Algorithm:
-Use Farneback Optical Flow to generate an artificial frame by using the two consecutive real frames from the original video sequence.
+Use Lucas Kanade and Farneback Optical Flow to generate artificial frames by using the two consecutive real frames from the original video sequence.
 
 ### Data:
 Got a free video from pexels.com/videos and down sampled the sequence of 60 frames/sec to 30 frames/sec by taking every other frame
