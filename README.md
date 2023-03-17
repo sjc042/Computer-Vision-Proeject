@@ -46,3 +46,6 @@ We had to adapt to use shorter videos with lower resolutions.
 If we had more time and resources, we would like to implement our own working Farneback Optical Flow algorithm that is similar to the one the is implemented by OpenCV.
 We would also like to experiment with different frame rates using a variety of video lengths and resolution.
 
+## How does your approach differ from others? Was that beneficial?
+We learned and implemented the sparse Lucas Kanade in class and wanted to explore the dense Farneback Optical Flow method in our project.
+It was challenging but it was a great learning experience. 
