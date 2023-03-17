@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/68932309/224836641-083c4bc8-b3ad-45c7-
 ### Farneback Interpolated video sequence with frame rate of 50 fps playback at 50 fps
 https://user-images.githubusercontent.com/68932309/224836665-86789c1d-be8a-4150-9f13-cc5704989ed9.mov
 
-### Examples  interpolated frames with Lucas Kanade optical flow
+### Examples of interpolated frames with Lucas Kanade optical flow
 ![frame1-1](https://user-images.githubusercontent.com/68932309/226062613-56ffba98-102b-4076-897d-a98ab37b9d49.jpg)
 ![frame9-1](https://user-images.githubusercontent.com/68932309/226062617-51287d8b-3aa6-4165-9765-fa228699f714.jpg)
 
