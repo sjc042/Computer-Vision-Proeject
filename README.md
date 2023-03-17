@@ -1,4 +1,4 @@
-# Computer-Vision-Proeject
+# Computer-Vision-Project
 
 ## Problem Description
 ### Goal:
@@ -31,4 +31,6 @@ https://user-images.githubusercontent.com/68932309/224836641-083c4bc8-b3ad-45c7-
 
 ### Interpolated video sequence with frame rate of 50 fps playback at 50 fps
 https://user-images.githubusercontent.com/68932309/224836665-86789c1d-be8a-4150-9f13-cc5704989ed9.mov
+
+## Result
 
