@@ -19,20 +19,24 @@ The methods from cv2 such as calcOpticalFlowFarneback(), which is the working al
 Interpolate down sampled video sequence using Farneback Optical Flow. The generated video sequence will have a frame rate about twice that of the original/source video sequence(i.e. original frame rate 30fps---> new frame rate 59fps).
 
 
-
+## Result
 
 ### Original video sequence with frame rate of 25 fps
 https://user-images.githubusercontent.com/68932309/224836568-3eb8c213-2144-48a0-a822-6d43978f205a.mov
 
 #### We found this free video online at pexels.com/video
 
-### Interpolated video sequence with frame rate of 50 fps playback at 25 fps
+### Farneback Interpolated video sequence with frame rate of 50 fps playback at 25 fps
 https://user-images.githubusercontent.com/68932309/224836641-083c4bc8-b3ad-45c7-aa8d-e108fa4d4939.mov
 
-### Interpolated video sequence with frame rate of 50 fps playback at 50 fps
+### Farneback Interpolated video sequence with frame rate of 50 fps playback at 50 fps
 https://user-images.githubusercontent.com/68932309/224836665-86789c1d-be8a-4150-9f13-cc5704989ed9.mov
 
-## Result
+### Example images of interpolated frames with Lucas Kanade optical flow
+![frame1-1](https://user-images.githubusercontent.com/68932309/226062613-56ffba98-102b-4076-897d-a98ab37b9d49.jpg)
+![frame9-1](https://user-images.githubusercontent.com/68932309/226062617-51287d8b-3aa6-4165-9765-fa228699f714.jpg)
+![frame14-1](https://user-images.githubusercontent.com/68932309/226062619-98a365bd-eacd-4d0b-a40f-8aecc24b0a16.jpg)
+
 
 
 ## Problems Encountered
