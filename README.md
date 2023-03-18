@@ -49,4 +49,7 @@ We would also like to experiment with different frame rates using a variety of v
 
 ## How does your approach differ from others? Was that beneficial?
 We learned and implemented the sparse Lucas Kanade in class and wanted to explore the dense Farneback Optical Flow method in our project.
-It was challenging but it was a great learning experience. 
+It was challenging but it was a great learning experience.
+
+## Project Presentation
+https://user-images.githubusercontent.com/68932309/226083640-e0287157-ed23-4050-bb1b-01509ce39d5b.mp4
